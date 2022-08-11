@@ -173,12 +173,12 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "MyFirst Shiny Application"
+      description: "This is my first Shiny application deployed on <>https://www.shinyapps.io/</>Shinyapps. This helps me to develop my skills and showcase Data Science tarlent to businesses and individuals."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        URL: "https://ml-ai-hub-applications.shinyapps.io/shiny_for_r_apps/"
       image:
         x: "img/works/app_sales_demand_forecast.jpg"
         _2x: "img/works/app_sales_demand_forecast.jpg"
