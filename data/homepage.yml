@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Eddwin Cheteni."
   subtitle: "Data Scientist"
-  description: "Eddie is the founder of <a target='_blank' href='https://www.business-science.io/'>Business Science</a>, an online data science school that helps students become a data scientist in 6-months or less."
+  description: "Eddie is the founder of <a target='_blank' href='https://www.ml.ai-hub.io/'>ml.ai-hub</a>, an online data science school that helps students become a data scientist in 3-months or less. Our target starts from grassroots to expert level of upskill."
   image:
     x: "img/showcase/data-science.gif"
     _2x: "img/showcase/data-science.gif"
