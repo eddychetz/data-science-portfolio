@@ -11,7 +11,7 @@ params:
   googleAnalyticsID: ''
   logo:
     text1: ml.ai
-    text2: -the hub-
+    text2: business hub
   plugins:
     css:
       - URL: css/main.css
