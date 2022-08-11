@@ -10,8 +10,8 @@ params:
       x: img/general/business-science-logo.png
   googleAnalyticsID: ''
   logo:
-    text1: Eddie
-    text2: Chetz
+    text1: ml.ai
+    text2: the Hub
   plugins:
     css:
       - URL: css/main.css
